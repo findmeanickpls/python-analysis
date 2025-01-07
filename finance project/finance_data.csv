@@ -1,0 +1,11 @@
+TransactionID,Name,Date,Transaction Type,Amount,Account Balance,Location
+1,John Doe,2024-11-01,Deposit,1500,12000,New York
+2,Jane Smith,2024-11-02,Withdrawal,-200,9800,Chicago
+3,Michael Lee,2024-11-03,Deposit,500,10500,Los Angeles
+4,Sarah Kim,2024-11-04,Withdrawal,-150,8500,Miami
+5,John Doe,2024-11-05,Deposit,700,12700,New York
+6,Jane Smith,2024-11-06,Withdrawal,-300,9500,Chicago
+7,Michael Lee,2024-11-07,Deposit,1000,11500,Los Angeles
+8,Sarah Kim,2024-11-08,Withdrawal,-400,8100,Miami
+9,John Doe,2024-11-09,Deposit,600,13300,New York
+10,Jane Smith,2024-11-10,Deposit,300,9700,Chicago

@@ -1,0 +1,11 @@
+PatientID,Age,Gender,Weight (kg),Height (cm),Systolic_BP,Diastolic_BP,Cholesterol,Diagnosis
+1,45,M,85,175,140,90,High,Hypertension
+2,37,F,68,160,120,80,Normal,Healthy
+3,52,M,95,178,150,95,High,Hypertension
+4,29,F,54,165,110,75,Normal,Healthy
+5,60,M,102,170,160,100,High,Heart Disease
+6,50,F,75,155,130,85,Normal,Healthy
+7,33,M,78,180,125,85,Borderline,At Risk of Diabetes
+8,46,F,62,165,135,88,Normal,Hypertension
+9,58,M,89,172,145,95,High,Heart Disease
+10,40,F,70,160,120,80,Normal,Healthy
